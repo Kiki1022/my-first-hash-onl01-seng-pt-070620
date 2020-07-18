@@ -1,4 +1,4 @@
-def my_hash(hash)
+def my_hash
   hash = {"name" =>"kinnari","gender" => "female", "hair_color" => "black"}
 return hash
 end
